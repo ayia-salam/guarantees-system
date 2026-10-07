@@ -1,0 +1,4 @@
+<?php
+echo "<h1>Welcome to Legal Guarantees System - Al-Iraqia University</h1>";
+echo "<p>System is online and ready for deployment.</p>";
+?>
